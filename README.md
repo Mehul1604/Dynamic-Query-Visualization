@@ -1,7 +1,7 @@
 # Dynamic Query Visualizer
 
 A multi-agent AI system that converts natural language questions into SQL queries, executes them against a PostgreSQL database, and generates interactive visualizations with AI-powered insights.
-
+#### Hosted Site: https://dynamic-query-visualization.onrender.com/
 
 ![alt text](demo_gif.gif)
 
